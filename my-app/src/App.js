@@ -1,6 +1,7 @@
 import React, { Component } from "react";
-import "./App.css";
+
 import RegistrationForm from "./RegistrationForm";
+import "./App.css";
 import DataTable from "./DataTable";
 
 class App extends Component {
